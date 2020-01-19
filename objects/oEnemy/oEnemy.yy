@@ -13,6 +13,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "768c1ea5-532c-4bdd-ba2f-4c4bd807966e"
+        },
+        {
+            "id": "612c5bd9-5419-4fbb-a988-ea1b61db60b9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "768c1ea5-532c-4bdd-ba2f-4c4bd807966e"
+        },
+        {
+            "id": "bc375400-9f24-4f71-afa3-889190feda99",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 2,
+            "m_owner": "768c1ea5-532c-4bdd-ba2f-4c4bd807966e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -87,6 +107,20 @@
             "value": "2",
             "varName": "facingDirection",
             "varType": 0
+        },
+        {
+            "id": "918711e8-8899-41ba-b463-defd453aa091",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "say",
+            "varType": 3
         }
     ],
     "solid": false,

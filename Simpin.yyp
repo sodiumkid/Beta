@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "4cbc002f-57ac-40d2-abdd-582b31ed6e58",
+            "Value": {
+                "id": "fecb62bc-8918-4bf7-84e5-314f4d29ceb4",
+                "resourcePath": "objects\/oSaying\/oSaying.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d44be05-f1a1-4941-855d-ced8a7c54721",
             "Value": {
                 "id": "b437a034-6111-461b-a487-01308cc9301d",
@@ -543,11 +551,27 @@
             }
         },
         {
+            "Key": "e969c12b-2757-4052-bc0c-45dd2bd94135",
+            "Value": {
+                "id": "caf2ef93-f743-4092-be31-c64adc963e19",
+                "resourcePath": "sounds\/sdG\/sdG.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "eda2f17d-2b9b-4750-9e77-de1af41eb97f",
             "Value": {
                 "id": "e0d1fc3e-33d4-452f-8d03-e357eebf0e01",
                 "resourcePath": "sprites\/sEffect\/sEffect.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee9d2980-367a-402f-8354-5b60edf0a5f3",
+            "Value": {
+                "id": "e8ed82e2-e08f-40e0-84ef-99572873ec3e",
+                "resourcePath": "sounds\/sdTitle\/sdTitle.yy",
+                "resourceType": "GMSound"
             }
         },
         {
