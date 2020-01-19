@@ -31,7 +31,7 @@ key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_jump = keyboard_check(ord("W"));
 key_punch = keyboard_check(ord("P"));
-
+key_duck = keyboard_check(ord("S"));
 
 if (key_left) {
 	 hsp = -10;
@@ -175,6 +175,9 @@ if (key_punch) {
 	sprite_index = sPlayerPunch;
 }
 
+if (key_duck) {
+	sprite_index = sPlayerD;
+}
 
 image_xscale = facingDirection;
 
